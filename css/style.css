@@ -29,8 +29,8 @@ body {
     }
 }
 header {
-    background-color: #1aaedb;
-    border-bottom: #ead963 6px solid;
+    background-color: #21538E;
+    border-bottom: #cccccc 6px solid;
 }
 header .container {
     min-height: 60px;
@@ -85,7 +85,7 @@ main .container {
     background-color: #fff;
 }
 footer {
-    background-color: #1aaedb;
+    background-color: #21538E;
 }
 footer .container {
     min-height: 50px;
