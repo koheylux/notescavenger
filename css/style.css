@@ -84,17 +84,7 @@ main .container {
     margin: 0 auto;
     background-color: #fff;
 }
-footer {
-    background-color: #21538E;
-}
-footer .container {
-    min-height: 50px;
-    padding-top:10px;
-    padding-bottom:10px;
-    color: #fff;
-    font-size: 12px;
-    text-align: right;
-}
+
 @media (min-width: 768px) {
     footer .container {
         min-height: 50px;
